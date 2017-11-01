@@ -1,0 +1,11 @@
+ES Modules in Node Today!
+https://blogs.windows.com/msedgedev/2017/08/10/es-modules-node-today/#3OStq1rD4uTKgPiL.97
+
+npm i --save @std/esm
+node -r @std/esm sum-test.mjs
+
+
+javascript require @std/esm
+http://walde.co/2017/08/21/suportando-modulos-ecmascript-esm-no-node-js-partir-de-hoje/
+http://2ality.com/2017/09/native-esm-node.html
+https://github.com/standard-things/esm
